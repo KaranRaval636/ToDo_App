@@ -12,7 +12,7 @@ A simple, stylish, and functional To-Do List App built with **HTML, CSS (Bootstr
 ✅ **Task Categories (Upcoming Feature)** – Organize tasks based on Work, Personal, etc.  
 
 ## 🎥 Preview
-
+🔗 **Try the App Here:** [To-Do List Live Demo](https://karanraval636.github.io/ToDo_App/)
 ![screencapture-file-D-Projects-JavaScript-Project-Todo-List-index-html-2025-03-29-17_08_42](https://github.com/user-attachments/assets/58982c44-9848-4a3c-96df-376e942d662b)
  
 
