@@ -20,6 +20,12 @@
       <div class="card shadow-lg p-4">
         <h2 class="text-center mb-4 text-primary">📝 Todo List</h2>
 
+        <!-- Dark Mode Toggle -->
+        <div class="dark-mode-toggle">
+          <button class="btn btn-light" id="darkModeToggle">
+            🌙 Dark Mode
+          </button>
+        </div>
         <div class="input-group mb-3">
           <input
             type="text"
@@ -27,6 +33,14 @@
             id="taskInput"
             placeholder="Enter a new task..."
           />
+
+          <!-- Task Priority Dropdown -->
+          <select class="form-select" id="taskPriority">
+            <option value="High">🔥 High</option>
+            <option value="Medium">⚡ Medium</option>
+            <option value="Low">✅ Low</option>
+          </select>
+
           <button class="btn btn-primary" type="button" id="taskInputBtn">
             Add Task
           </button>
